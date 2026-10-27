@@ -1,4 +1,4 @@
-# HHC Portal - React & .NET Architecture PoC
+React & .NET Architecture PoC
 
 This repository contains the Proof of Concept (PoC) for the modernization of the Home Health Care (HHC) Portal. It validates the transition from legacy ASP.NET Web Forms / DevExpress to a modern **React (Vite)** frontend and a **.NET (C#) Web API** backend.
 
